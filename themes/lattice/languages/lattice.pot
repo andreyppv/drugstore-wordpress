@@ -1,0 +1,543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lattice 1.0\n"
+"POT-Creation-Date: 2014-01-05 13:15-0000\n"
+"PO-Revision-Date: 2014-01-05 13:16-0000\n"
+"Last-Translator: Sunny Ratilal\n"
+"Language-Team: Sunny Ratilal\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_nx;__;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:25
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../archive.php:28
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:30
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:32
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:32
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:34
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:31
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:60
+msgid "Previous Comments"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:75
+msgid "No Reviews"
+msgstr ""
+
+#: ../comments.php:76
+#, php-format
+msgid "Be the first to review this %s."
+msgstr ""
+
+#: ../comments.php:80
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:81
+msgid "Be the first to start the conversation."
+msgstr ""
+
+#: ../comments.php:89
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content.php:41
+msgid "Edit"
+msgstr ""
+
+#: ../content.php:56
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content.php:59 ../single-download.php:63
+msgid "Pages:"
+msgstr ""
+
+#: ../footer.php:15
+#, php-format
+msgid "&copy; %1$s %2$s. Powered by %3$sWordPress%4$s."
+msgstr ""
+
+#: ../footer.php:16
+#, php-format
+msgid "%1$sLattice Theme%2$s by Sunny Ratilal."
+msgstr ""
+
+#: ../front-page.php:16 ../functions.php:1061
+msgid "Welcome To Our Store"
+msgstr ""
+
+#: ../front-page.php:54
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../front-page.php:54
+msgid "More Info"
+msgstr ""
+
+#: ../front-page.php:70
+msgid "View More"
+msgstr ""
+
+#: ../functions.php:102
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:181
+msgid "Purchase Options"
+msgstr ""
+
+#: ../functions.php:217
+msgid "Verified Buyer"
+msgstr ""
+
+#: ../functions.php:225
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:226
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:235
+msgid "stars"
+msgstr ""
+
+#: ../functions.php:259
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:273
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:340
+msgid "Purchase"
+msgstr ""
+
+#: ../functions.php:408
+msgid "<span class=\"nav\">Published In</span> %title"
+msgstr ""
+
+#: ../functions.php:410
+msgid "<span class=\"nav\">Previous Post</span> %title"
+msgstr ""
+
+#: ../functions.php:411
+msgid "<span class=\"nav\">Next Post</span> %title"
+msgstr ""
+
+#: ../functions.php:438
+msgid ""
+"<span class=\"nav-previous meta-nav\"><i class=\"fa fa-chevron-left\"></i> "
+"Older</span>"
+msgstr ""
+
+#: ../functions.php:447
+msgid ""
+"<span class=\"nav-next meta-nav\">Newer <i class=\"fa fa-chevron-right\"></"
+"i></span>"
+msgstr ""
+
+#: ../functions.php:479
+#, php-format
+msgid "%1$s Leave a comment"
+msgstr ""
+
+#: ../functions.php:480
+#, php-format
+msgid "%1$s 1 Comment"
+msgstr ""
+
+#: ../functions.php:481
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:501
+msgid "One Review"
+msgstr ""
+
+#: ../functions.php:510
+msgid "Reviews"
+msgstr ""
+
+#: ../functions.php:513
+msgid "Comments"
+msgstr ""
+
+#: ../functions.php:533
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../functions.php:595
+msgid "Search Results For"
+msgstr ""
+
+#: ../functions.php:604
+msgid "404 - Nothing Found"
+msgstr ""
+
+#: ../functions.php:607
+msgid "Author Archive"
+msgstr ""
+
+#: ../functions.php:610
+msgid "Category Archive"
+msgstr ""
+
+#: ../functions.php:613
+msgid "Tag Archive"
+msgstr ""
+
+#: ../functions.php:630
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:835
+msgid "Free"
+msgstr ""
+
+#: ../functions.php:881
+msgid "Checkout"
+msgstr ""
+
+#: ../functions.php:893
+msgid "<i class=\"edd-icon-ok\"></i> Added to cart"
+msgstr ""
+
+#: ../functions.php:894
+msgid "Go to Checkout"
+msgstr ""
+
+#: ../functions.php:902
+#, php-format
+msgid "Includes %1$s&#37; tax"
+msgstr ""
+
+#: ../functions.php:904
+#, php-format
+msgid "Excluding %1$s&#37; tax"
+msgstr ""
+
+#: ../functions.php:953
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:963
+msgid "Download Page Sidebar"
+msgstr ""
+
+#: ../functions.php:965
+msgid "Sidebar which displays on the individual download pages"
+msgstr ""
+
+#: ../functions.php:974
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:1022
+msgid "on"
+msgstr ""
+
+#: ../functions.php:1048
+msgid "Lattice Options"
+msgstr ""
+
+#: ../functions.php:1054
+msgid "Social Profiles"
+msgstr ""
+
+#: ../functions.php:1055
+msgid ""
+"Add URLs to your social profiles to display a link to them in the footer."
+msgstr ""
+
+#: ../functions.php:1070
+msgid "Homepage Introduction Text"
+msgstr ""
+
+#: ../functions.php:1076
+msgid "Twitter Username (without the @)"
+msgstr ""
+
+#: ../functions.php:1082
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../functions.php:1088
+msgid "Instagram Username"
+msgstr ""
+
+#: ../functions.php:1094
+msgid "Google+ ID"
+msgstr ""
+
+#: ../functions.php:1142
+msgid "Theme License"
+msgstr ""
+
+#: ../functions.php:1157
+msgid "Lattice Theme License Options"
+msgstr ""
+
+#: ../functions.php:1165
+msgid "License Key"
+msgstr ""
+
+#: ../functions.php:1169
+msgid "Enter your license key"
+msgstr ""
+
+#: ../functions.php:1175 ../functions.php:1184
+msgid "Activate License"
+msgstr ""
+
+#: ../functions.php:1179
+msgid "active"
+msgstr ""
+
+#: ../functions.php:1181
+msgid "Deactivate License"
+msgstr ""
+
+#: ../header.php:65
+msgid "Search"
+msgstr ""
+
+#: ../index.php:21
+msgid "Blog"
+msgstr ""
+
+#: ../single-download.php:33
+msgid "reviews"
+msgstr ""
+
+#: ../single-download.php:85
+#, php-format
+msgid "%s already in cart."
+msgstr ""
+
+#: ../edd_templates/history-downloads.php:10
+msgid "Download Name"
+msgstr ""
+
+#: ../edd_templates/history-downloads.php:12
+msgid "Files"
+msgstr ""
+
+#: ../edd_templates/history-downloads.php:66
+#: ../edd_templates/shortcode-receipt.php:188
+msgid "No downloadable files found."
+msgstr ""
+
+#: ../edd_templates/history-downloads.php:71
+#, php-format
+msgid "Payment status is %s"
+msgstr ""
+
+#: ../edd_templates/history-downloads.php:102
+msgid "You have not purchased any downloads"
+msgstr ""
+
+#: ../edd_templates/history-purchases.php:10
+msgid "ID"
+msgstr ""
+
+#: ../edd_templates/history-purchases.php:11
+#: ../edd_templates/shortcode-receipt.php:29
+msgid "Date"
+msgstr ""
+
+#: ../edd_templates/history-purchases.php:12
+msgid "Amount"
+msgstr ""
+
+#: ../edd_templates/history-purchases.php:13
+msgid "Details"
+msgstr ""
+
+#: ../edd_templates/history-purchases.php:31
+msgid "View Details and Downloads"
+msgstr ""
+
+#: ../edd_templates/history-purchases.php:50
+msgid "You have not made any purchases"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:19
+msgid "Payment"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:34
+msgid "Payment Status"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:39
+msgid "Fees"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:56
+msgid "Subtotal"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:63
+msgid "Tax"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:68
+#: ../edd_templates/shortcode-receipt.php:220
+msgid "Total Price"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:75
+msgid "Discount(s)"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:82
+msgid "Payment Method"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:89
+msgid "Payment Key"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:102
+msgid "Products"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:106
+msgid "Name"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:108
+msgid "SKU"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:111
+msgid "Quantity"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:113
+msgid "Price"
+msgstr ""
+
+#: ../edd_templates/shortcode-receipt.php:179
+msgid "No downloadable files found for this bundled item."
+msgstr ""
+
+#: ../fes_templates/frontend-dashboard.php:8
+#, php-format
+msgid " Your store url is: %s"
+msgstr ""
+
+#: ../fes_templates/frontend-my-products.php:10
+msgid "Pending Review"
+msgstr ""
+
+#: ../fes_templates/frontend-my-products.php:15
+#: ../fes_templates/frontend-my-products.php:39
+msgid "Product"
+msgstr ""
+
+#: ../fes_templates/frontend-my-products.php:16
+msgid "Date/Time Submitted for Review"
+msgstr ""
+
+#: ../fes_templates/frontend-my-products.php:34
+msgid "Live Products"
+msgstr ""
+
+#: ../fes_templates/frontend-my-products.php:40
+msgid "Sales Quantity"
+msgstr ""
+
+#: ../fes_templates/frontend-my-products.php:41
+msgid "Actions"
+msgstr ""
+
+#: ../fes_templates/frontend-my-products.php:53
+msgid "View"
+msgstr ""
+
+#: ../fes_templates/frontend-my-products.php:58
+msgid "Total Sales"
+msgstr ""
+
+#: ../fes_templates/frontend-my-products.php:68
+msgid "You have no products"
+msgstr ""
+
+#: ../inc/class-edd-sl-theme-updater.php:60
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""

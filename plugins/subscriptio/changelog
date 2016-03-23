@@ -1,0 +1,93 @@
+Version 2.0.2, June 11 2015
+------------------------------------------------------------------------------------
+[+] Added new options for controlling PayPal Gateway Preapproval operation
+[*] Fixed issue with PayPal Gateway Preapproval operation
+[*] Fixed few other small issues
+
+Version 2.0.1, May 26 2015
+------------------------------------------------------------------------------------
+[+] Fixed "return value in write context" error
+
+Version 2.0, May 22 2015
+------------------------------------------------------------------------------------
+[+] Added PayPal payment gateway with support of automatic payments
+[+] New option to have one subscription with multiple products created
+[+] New options to control pauses of subscriptions: max number and max duration
+[+] New option to switch on/off the charging of shipping for renewal orders
+[+] Subscriptio now prevents WooCommerce from cancelling renewal orders prematurely
+[+] Added ability to change "Add to Cart" label for subscription products
+[+] New set of action hooks that run before subscription status change
+[*] Updated Stripe API version
+[*] Fixed some problems related to custom item/order meta data
+[*] Fixed the bug of recurring amount double-multiply on change of quantity
+[*] Fixed the price formatting of variation subscription products
+[*] Fixed the bug when original price for discounted products was not showing
+[*] Fixed internationalization of dates on My Account page
+[*] Fixed the showing of tax suffix
+[*] Other minor bug fixes and cosmetic changes
+
+Version 1.0.10, April 8 2015
+------------------------------------------------------------------------------------
+[*] Fixed Payment Due reminders not being sent in some cases
+[*] Fixed automatic Stripe refunds for renewal orders
+[*] Other minor bug fixes
+
+Version 1.0.9, March 9 2015
+------------------------------------------------------------------------------------
+[+] Added support for WooCommerce 2.2 style refunds
+[-] Stripe no longer issues refunds on order status change to cancelled and refunded
+[-] Removed support for WooCommerce 2.0
+[*] Improved compatibility with WooCommerce 2.1+
+[*] Fixed issues related to subscription price display including/excluding tax
+
+Version 1.0.8, March 2 2015
+------------------------------------------------------------------------------------
+[*] Renewal orders with zero total are now automatically marked processing
+[*] Improved compatibility with latest versions of WooCommerce
+
+Version 1.0.7, 3 February 2015
+------------------------------------------------------------------------------------
+[*] Fixed Stripe gateway error "Received unknown parameter: statement_description"
+[*] Fixed bug/typo in multiple email templates
+
+Version 1.0.6, 19 December 2014
+------------------------------------------------------------------------------------
+[*] Fixed a bug that prevented new user accounts from being created during checkout
+[*] Fixed a bug/typo in get_time_zone function
+[*] Improved compatibility with PHP 5.2
+[*] Improved checkout page Javascript to handle empty billing fields gracefully
+
+Version 1.0.5, December 3 2014
+------------------------------------------------------------------------------------
+[*] Fixed a bug that prevented subscription products to be turned back to regular
+[*] Further improvements to frontend navigation when URL rewrite is used
+[*] Fixed a bug in Stripe extension that prevented test transactions with no SSL
+
+Version 1.0.4, October 23 2014
+------------------------------------------------------------------------------------
+[*] Fixed a bug that displayed a fatal error after PayPal payment was canceled
+[*] Improved handling of New Order, Processing and Completed emails for renewals
+[*] Changed default renewal order payment status from on-hold to pending
+[*] Improved compatibility with WooCommerce version 2.2 (order statuses)
+[*] Improved compatibility with WooCommerce versions 2.0.X
+[*] Fixed a bug that prevented subscription status to be assigned on checkout
+[*] Other minor bug fixes and improvements
+
+Version 1.0.3, October 9 2014
+------------------------------------------------------------------------------------
+[*] Fixed a bug that caused new subscriptions to fail because of shipping settings
+[*] Fixed frontend navigation when URL rewrite is used for permalinks
+
+Version 1.0.2, September 23 2014
+------------------------------------------------------------------------------------
+[+] Added Stripe payment gateway for automatic payments
+[*] Other minor improvements
+
+Version 1.0.1, September 1 2014
+------------------------------------------------------------------------------------
+[*] Fixed "Can't use method return value in write context" bug in older PHP versions
+[*] Improved function that determines system's time zone
+
+Version 1.0, August 30 2014
+------------------------------------------------------------------------------------
+[+] Initial release
